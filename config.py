@@ -1,0 +1,3 @@
+FILES_BASE_PATH = "D:\\Data"
+USER = "root"
+PASSWORD = "Root123456"
